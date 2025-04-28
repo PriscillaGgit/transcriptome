@@ -1,0 +1,11 @@
+*.fastq
+*.bam
+paeru.*.ht2
+
+merged.annotated.gtf
+merged.loci
+merged.stats
+merged.stringtie_merged.gtf.refmap
+merged.stringtie_merged.gtf.tmap
+merged.tracking
+stringtie_merged.gtf
